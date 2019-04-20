@@ -6,7 +6,7 @@
 
 
 ### A macOS Package to activate the old Nvidia graphics card in macOS Mojave
-- Working for macOS Mojave 10.14.(0-1-2-3-4-5)
+- Working for macOS Mojave 10.14.(0-1-2-3-4-5) Including Beta
 
 #### Credit: 
 - Fix/Patch: dosdude1 AsentientBot
