@@ -9,7 +9,7 @@
 - Working for macOS Mojave 10.14.(0-1-2-3-4-5) Including Beta
 
 #### Credit: 
-- Fix/Patch: dosdude1 AsentientBot
+- Fix/Patch: dosdude1, AsentientBot
 - Tester: chris1111, emax31, guillermomanuel, arcade33, C.Frio
 - Packager: chris1111
 
