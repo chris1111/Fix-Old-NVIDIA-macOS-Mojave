@@ -2,7 +2,7 @@
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/fin_nv10.png)
 
-![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu617.png)
+![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/webp_n13.gif)
 
 
 ### A macOS Package to activate the old Nvidia graphics card in macOS Mojave
