@@ -6,6 +6,7 @@ For macOS Mojave 10.14 (123456)
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/webp_n16.gif)
 
 For macOS Catalina 10.15 Beta 2
+
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu695.png)
 
 
