@@ -28,4 +28,4 @@ For macOS Catalina 10.15 Beta 2
 
 ### Download ➤ [Old NVIDIA macOS Mojave.pkg.zip](https://github.com/chris1111/Fix-Old-NVIDIA-macOS-Mojave/releases/tag/V1)
 
-### Download ➤ [Old NVIDIA macOS Catalina-V2.pkg.zip](https://github.com/chris1111/Fix-Old-NVIDIA-macOS-Mojave/releases/tag/V2)
+### Download ➤ [Old NVIDIA macOS Catalina-V-1-2-3.pkg.zip](https://github.com/chris1111/Fix-Old-NVIDIA-macOS-Mojave/releases/tag/V2)
