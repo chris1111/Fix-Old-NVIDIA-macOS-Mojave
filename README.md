@@ -18,7 +18,7 @@ For macOS Catalina 10.15 Beta 2
 
 
 #### Credit: 
-- Fix/Patch: dosdude1, AsentientBot
+- - Fix/Patch: [dosdude1](https://forums.macrumors.com/members/dosdude1.669685/) [AsentientBot](https://forums.macrumors.com/members/asentientbot.1135186/)
 - Tester: chris1111, emax31, guillermomanuel, arcade33, C.Frio
 - Packager: chris1111
 
