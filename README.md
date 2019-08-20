@@ -13,8 +13,8 @@ For macOS Catalina 10.15 Beta 2
 
 ### A macOS Package to activate the old Nvidia graphics card in macOS Mojave and Cacalina
 - Testing on Hackintosh
-- Working for macOS Mojave 10.14.(0-1-2-3-4-5) Including Beta
-- Working for macOS Catalina 10.15 Beta 2
+- Working for macOS Mojave 10.14.(0-1-2-3-4-5-6) Including Beta
+- Working for macOS Catalina 10.15 Beta 1-2-3-4-5-6
 
 
 #### Credit: 
@@ -28,4 +28,4 @@ For macOS Catalina 10.15 Beta 2
 
 ### Download ➤ [Old NVIDIA macOS Mojave.pkg.zip](https://github.com/chris1111/Fix-Old-NVIDIA-macOS-Mojave/releases/tag/V1)
 
-### Download ➤ [Old NVIDIA macOS Catalina-V-1-2-3-4-5.pkg.zip](https://github.com/chris1111/Fix-Old-NVIDIA-macOS-Mojave/releases/tag/V2)
+### Download ➤ [Old NVIDIA macOS Catalina-V-1-2-3-4-5-6.pkg.zip](https://github.com/chris1111/Fix-Old-NVIDIA-macOS-Mojave/releases/tag/V2)
