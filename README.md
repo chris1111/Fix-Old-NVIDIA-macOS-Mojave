@@ -5,9 +5,7 @@
 For macOS Mojave 10.14 (1-2-3-4-5-6)
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/webp_n16.gif)
 
-
-
-
+## For macOS Catalina 10.15 follow this repos ➣ [Legacy Video patch](https://github.com/chris1111/Legacy-Video-patch)
 
 ### A macOS Package to activate the old Nvidia graphics card in macOS Mojave and Cacalina
 - Testing on Hackintosh
