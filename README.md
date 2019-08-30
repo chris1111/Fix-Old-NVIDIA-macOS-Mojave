@@ -1,4 +1,4 @@
-# Fix Old NVIDIA macOS Mojave and Catalina
+# Fix Old NVIDIA macOS Mojave
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/68747423.png)
 
