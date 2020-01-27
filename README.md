@@ -8,6 +8,8 @@ For macOS Mojave 10.14 (1-2-3-4-5-6)
 ## For macOS Catalina 10.15 follow this repos ➣ [Legacy Video patch](https://github.com/chris1111/Legacy-Video-patch)
 
 ### A macOS Package to activate the old Nvidia graphics card in macOS Mojave
+### Support: GeForce 5xx, 4xx, 2xx, 8600M(GT)/8800M(GT), 9400M/9600M(GT), 320M/330M
+
 - Testing on Hackintosh
 - Working for macOS Mojave 10.14.(0-1-2-3-4-5-6) Including Beta
 
