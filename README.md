@@ -16,6 +16,8 @@ For macOS Mojave 10.14 (1-2-3-4-5-6)
 - Testing on Hackintosh
 - Working for macOS Mojave 10.14.(0-1-2-3-4-5-6) Including Beta
 
+
+
 #### Credit: 
 - Fix/Patch: [dosdude1](https://forums.macrumors.com/members/dosdude1.669685/), [AsentientBot](https://forums.macrumors.com/members/asentientbot.1135186/)
 - Tester: chris1111, emax31, guillermomanuel, arcade33, C.Frio
@@ -26,5 +28,8 @@ For macOS Mojave 10.14 (1-2-3-4-5-6)
 
 
 ### Download ➤ [Old NVIDIA macOS Mojave.pkg.zip](https://github.com/chris1111/Fix-Old-NVIDIA-macOS-Mojave/releases/tag/V1)
+- Update 24 Feb 2020 Add SkyLight.framework for 10.14.6 (better transparency)
 
+
+## View ➤ [My macOS Catalina 10.14.6 (18G4011)](https://i25.servimg.com/u/f25/18/50/18/69/transp10.png)
 
