@@ -1,6 +1,3 @@
-
-# New program Update ➤ [Legacy-Video-Patch-Mojave](https://github.com/chris1111/Legacy-Video-Patch-Mojave)
-
 # Fix Old NVIDIA macOS Mojave
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/68747423.png)
